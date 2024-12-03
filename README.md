@@ -16,5 +16,5 @@ Bem-vindo ao meu espaço pessoal! Este projeto é um site dedicado a compartilha
 
 ## Explore o Site
 
-Visite meu site em [link para o site ao vivo](#) e descubra um pouco mais sobre mim e as coisas que me fazem feliz.
+Visite meu site em [link para o site ao vivo](https://mateusfsan.github.io/Sobre-mim/) e descubra um pouco mais sobre mim e as coisas que me fazem feliz.
 
